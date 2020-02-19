@@ -4,9 +4,10 @@ html {
 }
 
 
-h1 { 
+h1, h5 { 
     background:aliceblue; 
     margin: 0;
+    margin-bottom: 3px;
 }
 
 .jumbotron { 
