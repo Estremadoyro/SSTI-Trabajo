@@ -1,0 +1,23 @@
+html {
+
+    background: aliceblue ; 
+}
+
+
+h1 { 
+    background:aliceblue; 
+    margin: 0;
+}
+
+.jumbotron { 
+    margin: 0 auto ; 
+    width: 90%
+}
+
+input {
+    width: 100%;
+}
+
+#texto_output { 
+    cursor: default;
+}
